@@ -33,3 +33,11 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 https://www.youtube.com/c/americaenvivo/live
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24
 https://www.youtube.com/c/A24com/live
+#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png" tvg-id="ESPN Premium.ar" group-title="Argentina",ESPN Premium
+http://45.5.151.251:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png" tvg-id="ESPN Premium.ar" group-title="Argentina",ESPN Premium
+http://190.108.89.228:8000/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png" tvg-id="ESPN Premium.ar" group-title="Argentina",ESPN Premium
+http://217.26.190.76:8888/play/a0es/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" tvg-id="TNT Sports.ar" group-title="Argentina",TNT Sports
+http://181.209.125.237:9000/play/a058/index.m3u8
